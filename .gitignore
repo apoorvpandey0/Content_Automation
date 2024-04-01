@@ -1,0 +1,7 @@
+*.wav
+*.jpg
+*.png
+*.mp4
+downloads/
+mid_frames/
+stage1/
